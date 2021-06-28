@@ -39,7 +39,7 @@
 		"generate-scenarios": "index.js"
 	},
 	"dependencies": {
-		"get-site-urls": "^1.0.1",
+		"get-site-urls": "https://github.com/fgerards/get-site-urls",
 		"prompt": "^1.0.0"
 	}
 }
